@@ -1,6 +1,7 @@
 ### Hola👋, Soy mi nombre es Renzo 😁
 
-Soy desarrollador de software desde el año 2014 hasta la actualidad, durante estos años tuve la gran experiencia de desarrollar desde cero 2 ERP's a medida en las dos empresa en las cuales trabajé.
+Soy desarrollador de software desde el año 2014 hasta la actualidad, durante estos años tuve la gran experiencia de desarrollar desde cero 2 ERP's a medida en las dos empresas en las cuales trabajé.
+Considero mi perfil de desarrollador como Full-stack, me va mejor el Back-End, pero en estos años me he preparado mucho a la parte del Front-End
 
 ## Skills:
 
@@ -14,5 +15,3 @@ Soy desarrollador de software desde el año 2014 hasta la actualidad, durante es
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![SQLServer](https://img.shields.io/badge/SQLServer-1A75CB?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
-
-
