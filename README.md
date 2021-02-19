@@ -1,6 +1,7 @@
 ### Hola👋, Soy mi nombre es Renzo 😁
 
 Soy desarrollador de software desde el año 2014 hasta la actualidad, durante estos años tuve la gran experiencia de desarrollar desde cero 2 ERP's a medida en las dos empresas en las cuales trabajé.
+</br>
 Considero mi perfil de desarrollador como Full-stack, me va mejor el Back-End, pero en estos años me he preparado mucho a la parte del Front-End
 
 ## Skills:
