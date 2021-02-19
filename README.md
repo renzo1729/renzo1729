@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola, soy analista programador de sistemas he trabajado en ese puesto desde el 2014 hasta la actualidad
+Hola 😀, soy desarrollador de software desde el 2014, durantes los cuales desarrollé 2 ERP a medida en las dos empresa en las cuales trabajé.
