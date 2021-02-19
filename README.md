@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hola 😀, soy desarrollador de software desde el 2014, durantes los cuales desarrollé 2 ERP a medida en las dos empresa en las cuales trabajé.
+
+## Skills:
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
