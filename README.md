@@ -1,4 +1,4 @@
-# Hola👋, Soy mi nombre es Renzo 😁
+# Hola👋, Mi nombre es Renzo 😁
 
 Soy desarrollador de software desde el año 2014 hasta la actualidad, durante estos años tuve la gran experiencia de desarrollar desde cero 2 ERP's a medida en las dos empresas en las cuales trabajé.
 </br>
